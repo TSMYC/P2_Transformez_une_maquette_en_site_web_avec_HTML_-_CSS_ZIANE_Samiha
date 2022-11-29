@@ -1,0 +1,167 @@
+body{
+    width: auto;
+    margin: 0%;
+}
+
+
+
+/*début filtres*/
+
+.section1{
+    margin-left: 4%;
+}
+
+.lesfiltres{
+    flex-wrap: wrap;
+    width: auto;
+}
+
+
+
+
+.parametre:nth-child(3){
+    margin-right: 30%;
+
+}
+
+.parametre:nth-child(4){
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.parametre:nth-child(5){
+    margin-top:3%;
+}
+
+
+/*fin filtres*/
+
+/*début hébergement à Marseille*/
+
+.section2:nth-child(1){
+    order:2;
+}
+.heberg{    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-right: 0%;
+    padding-left: 0%;
+}
+
+aside{
+    width: 42%;
+}
+
+
+
+.populaire1{
+    margin-left: 3%;
+}
+
+.section2{
+    width: 70%;
+    margin-left: 0%;
+    margin-top: 5%;
+    min-width: 0;
+
+}
+
+.card{
+    flex: 1 40%;
+}
+
+.choix{
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section4{
+    width: 75%;
+    margin-left: 14%;
+
+}
+
+.section5{
+    flex-wrap: wrap;
+}
+
+.section4 h2{  
+    margin-left: 5%;
+}
+
+.card3{
+    flex: 1 40%;
+}
+
+.card6{
+    margin-left: 0%;
+    margin-top: 10%;
+    flex: 1 40%;
+}
+
+.section6{
+    flex: 1 40%;
+}
+
+.section7{
+    margin-left: 0%;
+    margin-top: 10%;
+    flex: 1 40%;
+}
+
+.card7{
+    margin-left: 6%;
+    flex: 1 100%;
+}
+
+.card8{
+    margin-left: 6%;
+    flex: 1 100%;
+}
+
+footer{
+    width: auto;
+    margin-right: 0%;
+    min-width: 0;
+    padding-right: 0%;
+    padding-left: 5%;
+}
+
+
+
+.div{
+    margin-right: 6%;
+    padding-left: 0%;
+    margin-bottom: 12%;
+    padding-right: 0%;
+}
+
+header{
+    width: auto;
+    min-width: 0;
+}
+
+nav{
+    width: 90%;
+    padding-top: 2%;
+    
+
+}
+
+.hebergement{
+    margin-left: 45%;
+    
+}
+
+#logo{
+    margin-left: 4%;
+    margin-right: 0%;
+}
+
+
+header a:hover{
+    padding-top: 67px;
+    
+}
